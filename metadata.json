@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Fit AI - Ecossistema Inteligente",
+  "description": "Uma plataforma fitness e nutricional completa, reengenharia do workout.cool, movida por IA adaptativa para treinos, dietas e evolução contínua.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
